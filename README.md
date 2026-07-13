@@ -11,5 +11,7 @@
 | 2 | [Subsetting and Cleaning](https://github.com/grkenney/WinSPIRE-HLC-Python/blob/main/Notebooks/Day_2.2_Subsetting_and_Cleaning.ipynb) | [Subsetting and Cleaning - Key](https://github.com/grkenney/WinSPIRE-HLC-Python/blob/main/Notebooks/Keys/Day_2.2_Subsetting_and_Cleaning.ipynb) |
 | 3 | [Data Analysis](https://github.com/grkenney/WinSPIRE-HLC-Python/blob/main/Notebooks/Day_2.3_Data_Analysis.ipynb) | [Data Analysis - Key](https://github.com/grkenney/WinSPIRE-HLC-Python/blob/main/Notebooks/Keys/Day_2.3_Data_Analysis.ipynb) |
 | **Day 3: Plotting** |
-| 1 | [Plotting]() |
+| 1 | [Histograms and Bar Charts](https://github.com/grkenney/WinSPIRE-HLC-Python/blob/main/Notebooks/Day_3.1_Histograms_and_Bar_Charts.ipynb) | |
+| 2 | [Line Graphs](https://github.com/grkenney/WinSPIRE-HLC-Python/blob/main/Notebooks/Day_3.2_Line_Graphs.ipynb) | |
+| 3 | [Scatterplots](https://github.com/grkenney/WinSPIRE-HLC-Python/blob/main/Notebooks/Day_3.3_Scatterplots.ipynb) | |
 
