@@ -15,3 +15,5 @@
 | 2 | [Line Graphs](https://github.com/grkenney/WinSPIRE-HLC-Python/blob/main/Notebooks/Day_3.2_Line_Graphs.ipynb) | |
 | 3 | [Scatterplots](https://github.com/grkenney/WinSPIRE-HLC-Python/blob/main/Notebooks/Day_3.3_Scatterplots.ipynb) | |
 
+[Survey Link](https://docs.google.com/forms/d/e/1FAIpQLSeH-ds8rJojGFRScWCkMaw7QimklpNnu-dtbd85gjm-a80goQ/viewform?usp=publish-editor)
+
